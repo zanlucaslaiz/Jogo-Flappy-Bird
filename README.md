@@ -1,2 +1,2 @@
 # Jogo-Flappy-Bird
-Jogo flappy bird em python. 
+Copia do jogo flappy bird em python. Estudo inicial de jogos com curso de hashtag programação.
